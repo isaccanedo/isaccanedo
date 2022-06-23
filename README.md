@@ -1,4 +1,4 @@
-<!--
+<p>observing → reasoning → acting</p><!--
 ### Hi there 👋
 
 <div align="center"> 
@@ -7,7 +7,7 @@
 </div>
 
 -->  
-<p>observing → reasoning → acting</p>
+
 ![Snake animation](https://github.com/isaccanedo/isaccanedo/blob/output/github-contribution-grid-snake.svg)
 
 <!--
