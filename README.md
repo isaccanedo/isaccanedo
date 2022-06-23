@@ -1,4 +1,4 @@
-<p>observing → reasoning → acting</p><!--
+<!--
 ### Hi there 👋
 
 <div align="center"> 
@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+observing → reasoning → acting
