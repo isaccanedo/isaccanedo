@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-observing → reasoning → acting
+### Observing → Reasoning → Acting
