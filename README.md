@@ -8,7 +8,7 @@
 
 -->  
 
-![Snake animation](https://github.com/isaccanedo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/isaccanedo/isaccanedo/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 
