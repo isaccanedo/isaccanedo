@@ -1,4 +1,4 @@
-<!--
+
 ### Hi there 👋
 
 <div align="center"> 
@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaccanedo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
--->  
+
 
 ![Snake animation]<svg width="100" height="100"><rect x="10" y="10" width="80" height="80" fill="#f00"/></svg>
 
