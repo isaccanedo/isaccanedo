@@ -8,7 +8,7 @@
 
 
 
-![Snake animation]<svg width="100" height="100"><rect x="10" y="10" width="80" height="80" fill="#f00"/></svg>
+![Snake animation](https://github.com/isaccanedo/isaccanedo/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 
