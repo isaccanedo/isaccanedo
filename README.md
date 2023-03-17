@@ -7,8 +7,6 @@
 </div>
 -->
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=isaccanedo)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Snake animation](https://github.com/isaccanedo/isaccanedo/blob/output/github-contribution-grid-snake.svg)
 
 <!--
