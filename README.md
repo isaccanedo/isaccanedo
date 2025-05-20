@@ -10,10 +10,12 @@ como as pessoas interagem com a tecnologia.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaccanedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaccanedo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaccanedo&layout=compact&langs_count=7&theme=dracula"/>
+</div>
  
   <!--
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaccanedo&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=isaccanedo&theme=dracula&row=1&column=6" alt="trofeus" />
