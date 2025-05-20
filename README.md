@@ -1,3 +1,11 @@
+# Olá! Eu sou o Isac 👋
+
+🎓 Desenvolvedor Full Stack apaixonado por Angular e Java.  
+💻 Trabalho com sistemas distribuídos, APIs RESTful e deploy com Docker.  
+🎯 Atualmente focado em projetos com Spring Boot + Angular 19.  
+📚 Acredito em código limpo, aprendizado contínuo e tecnologia com propósito.
+
+
 <!--
 ### Olá 👋
 
