@@ -1,7 +1,7 @@
 # Olá! Eu sou o Isac 👋
 
 🎓 Desenvolvedor apaixonado por criar soluções que transformam a maneira 
-como as pessoas interagem com a tecnologia. Sempre buscando aprender algo novo.  
+como as pessoas interagem com a tecnologia.  
 💻 Trabalho com sistemas distribuídos, APIs RESTful e deploy com Docker.  
 🎯 Atualmente focado em projetos com Spring Boot + Angular 19.  
 📚 Acredito em código limpo, aprendizado contínuo e tecnologia com propósito.
